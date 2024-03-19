@@ -10,3 +10,5 @@ ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
 Happy hunt!
+
+Cleaning done, you'll find nothing!
