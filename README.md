@@ -10,3 +10,6 @@ ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
 Happy hunt!
+
+
+PS: You find the complete list of the [secrets location here](./solutions.md).
